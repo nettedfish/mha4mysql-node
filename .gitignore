@@ -5,7 +5,6 @@ inc/
 *.old
 *.orig
 *.gz
-*.rpm
 Build
 _build/
 META.yml
